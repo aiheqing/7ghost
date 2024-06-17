@@ -1,6 +1,6 @@
 <?php return array (
   'user' => 'test',
-  'password' => '123456',
+  'password' => 'xfsyxz',
   'host' => 'https://kns.cnki.net/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
@@ -8,14 +8,14 @@
   'static' => '0',
   'diyStatic' => 'html|png|jpg',
   'cookies' => '0',
-  'agent' => '0',
-  'referer' => '0',
-  'ip' => '0',
-  'diyAgent' => '',
-  'replaces' => 
-  array (
-  ),
-  'pages' => 
-  array (
-  ),
-);
+  '代理人'=> '0' ,
+  '引用者' => '0'，
+  'IP地址' => '0'，
+  'diyAgent' => '' ,
+  '替换' =>
+  大批（
+  ），
+  '页面' =>
+  大批（
+  ），
+）;
